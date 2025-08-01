@@ -88,6 +88,6 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author
 
 Created by ABHISHEK SHARMA  
-GitHub: https://abhishek0905sharma.github.io/
+GitHub: https:abhishek0905sharma.github.io
 
 
